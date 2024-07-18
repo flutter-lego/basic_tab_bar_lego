@@ -15,6 +15,3 @@ lego create
 ```bash
 lego add basic_tab_bar_lego
 ```
-
-## Usage
-Usage here
